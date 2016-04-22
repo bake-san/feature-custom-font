@@ -1,0 +1,31 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Pebble Technology",
+    "enableMultiJS": false,
+    "longName": "Custom Font",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/OSP-DIN_44.ttf",
+                "name": "FONT_OSP_DIN_44",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Custom Font",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "47d2fd2a-7809-4cfe-9144-08173353aaad",
+    "versionLabel": "2.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
